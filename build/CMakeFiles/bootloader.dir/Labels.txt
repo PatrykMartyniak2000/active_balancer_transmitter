@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/patrykmartyniak/active_balancer_transmitter/build/CMakeFiles/bootloader
+/home/patrykmartyniak/active_balancer_transmitter/build/CMakeFiles/bootloader.rule
+/home/patrykmartyniak/active_balancer_transmitter/build/CMakeFiles/bootloader-complete.rule
+/home/patrykmartyniak/active_balancer_transmitter/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/patrykmartyniak/active_balancer_transmitter/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/patrykmartyniak/active_balancer_transmitter/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/patrykmartyniak/active_balancer_transmitter/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/patrykmartyniak/active_balancer_transmitter/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/patrykmartyniak/active_balancer_transmitter/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/patrykmartyniak/active_balancer_transmitter/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
